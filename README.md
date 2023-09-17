@@ -30,12 +30,4 @@ The model achieved an accuracy of [insert accuracy here] on the test dataset, de
 - Incorporate more advanced NLP techniques for improved feature extraction.
 - Expand the dataset to enhance model robustness.
 - Implement real-time monitoring for immediate threat detection.
-
-## How to Run
-
-[Provide instructions on how to run or use the project, including any dependencies or setup required.]
-
-## Acknowledgements
-
-[Optional: Give credit to any external resources, libraries, or datasets used in the project.]
-
+- Zero Day Phishing in which whenever a phishing mail will created the ai will automatically block those spams.
